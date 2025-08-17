@@ -1,0 +1,29 @@
+# Arquivos de saída
+certificados/
+*.pdf
+
+# Arquivos temporários e de build
+build/
+dist/
+*.spec
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.zip
+*.toc
+*.pkg
+*.pyz
+*.exe
+*.html
+
+# Arquivos de entrada
+data/
+*.csv
+
+# VSCode
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
